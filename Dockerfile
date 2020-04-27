@@ -1,1 +1,3 @@
-FROM scratch
+FROM ubuntu:latest
+
+CMD ["echo" ""]
